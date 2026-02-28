@@ -63,11 +63,6 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
-  🌐 Portfolio: Coming Soon <br>
-  💼 LinkedIn: Add Your Link Here <br>
-  📧 Email: Add Your Email Here
-</p>
 
 <hr>
 

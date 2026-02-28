@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Radder</h1>
+<h1 align="center">Hi 👋, I'm Pavan M R</h1>
 <h3 align="center">💻 Computer Science & Design Engineering Student | Passionate Developer</h3>
 
 <p align="center">
